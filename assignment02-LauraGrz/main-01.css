@@ -1,0 +1,25 @@
+nav{
+
+	font-family: Verdana, sans-serif;
+	background-color: yellow;
+}
+
+article{
+	background-color: pink;
+	font-family: Georgia, serif;
+}
+
+aside{
+    background-color: silver;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+figure{
+
+    margin-bottom: 2.5em;
+}
+
+footer{
+    background-color: yellow;
+    font-family: Verdana, sans-serif;
+}

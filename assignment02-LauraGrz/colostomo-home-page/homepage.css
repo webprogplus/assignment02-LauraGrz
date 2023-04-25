@@ -1,0 +1,9 @@
+body{
+    margin: -1em;
+    padding: 1em;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f8991c;
+    color: white;
+}

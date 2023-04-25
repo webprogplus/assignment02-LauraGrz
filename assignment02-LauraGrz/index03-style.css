@@ -1,0 +1,8 @@
+.mark{
+    color: red;
+    font-weight: bold;
+}
+
+a h3 {
+    border-bottom: 1px dotted red;
+  }
